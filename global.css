@@ -1,0 +1,41 @@
+/* global.css */
+.container {
+    background-color: #F8F8F8;
+    padding: 20px;
+    align-items: center;
+    border-bottom-width: 2px;
+    border-bottom-color: #E5E5E5;
+    margin-bottom: 20px;
+  }
+  
+  .teamName {
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .logo {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-bottom: 15px;
+  }
+  
+  .toggleButton {
+    color: #1E2A38;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .description {
+    font-size: 16px;
+    color: #555;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
